@@ -55,7 +55,7 @@ class ViewController: UIViewController {
             
         } else {
             timer.invalidate()
-            eggLabel.text = "DONE!"
+            eggLabel.text = "YOUR EGG IS DONE!"
             playSound()
         }
           
